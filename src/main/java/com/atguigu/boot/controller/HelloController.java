@@ -8,6 +8,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String handle01(){
-        return "hello, Spring Boot 2!";
+        return "hello, Spring Boot 2021!";
     }
 }
